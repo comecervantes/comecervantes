@@ -1,16 +1,19 @@
-### Hi there 👋
+Engineering student passionate about innovation and technology. Currently leading an IoT project. Open to collaborating on exciting projects.
 
-<!--
-**comecervantes/comecervantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+| ![Côme's GitHub stats](https://github-readme-stats.vercel.app/api?username=comecervantes\&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comecervantes\&layout=compact)|
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-Here are some ideas to get you started:
+</div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+<a href="https://linkedin.com/in/côme-cervantes" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+ <a href="https://github.com/comecervantes" target="_blank">
+<img src="https://img.shields.io/badge/github-%23404040.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+</a>
+</div>  
