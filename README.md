@@ -1,4 +1,4 @@
-Engineering student passionate about innovation and technology. Currently leading an IoT project. Open to collaborating on exciting projects.
+Currently enrolled in an engineering school in Lyon, I am passionate about everything related to the field of engineering, whether it be closely or distantly connected.
 
 <div align="center">
   
